@@ -24,6 +24,9 @@ gem 'jbuilder', '~> 2.7'
 gem 'devise'
 gem 'devise-bootstrap-views', '~> 1.1'
 
+#stock price api
+gem 'iex-ruby-client', '~> 1.1', '>= 1.1.2'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
